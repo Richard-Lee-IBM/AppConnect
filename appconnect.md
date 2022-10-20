@@ -73,7 +73,7 @@ If you're using {{site.data.keyword.appconnect_notm}} to run BAR files in the cl
 ## Actions
 {: #actions}
 
-You can add several types of action to your flows. Common actions include create, retrieve, update, and delete, but some applications have specific actions. For example, the Watson Personality Insights application has an action that is called "Analyze personality". You can see a list of actions that are supported for applications in {{site.data.keyword.appconnect_notm}} by typing the action type in the search field on the Applications page:
+You can add several types of action to your flows. Common actions include create, retrieve, update, and delete, but some applications have specific actions. For example, the Watson Personality Insights application has an action that is called "Analyze personality". You can see a list of applications that an action can be performed on {{site.data.keyword.appconnect_notm}} by typing the action type in the search field on the Applications page:
 
 ![Screen capture that shows supported retrieval actions for applications](images/RetrieveApps2.jpg)
 
